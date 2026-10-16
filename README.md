@@ -5,13 +5,15 @@ Looking for a software development internship from April to the end of June, aro
 
 ## Right now
 
-[Classificator](https://github.com/TON-PSEUDO/classificator) - JavaFX app that classifies points with the k-NN algorithm (team project, MVC).
+[Classificator] - JavaFX app that classifies points with the k-NN algorithm (team project, MVC).
 
 ## Projects
 
-[Blackout](https://github.com/TON-PSEUDO/blackout) - Java video game built in a team in 3 days, agile method.
-[GPS 3000](https://github.com/TON-PSEUDO/gps-3000) - JavaFX app with favorites, history and CSV data.
-[Travel Assistant](https://github.com/TON-PSEUDO/travel-assistant) - Java itinerary finder on a multi-transport graph. I wrote the JUnit tests.
+[Blackout] - Java video game built in a team in 3 days, agile method.
+
+[GPS 3000]) - JavaFX app with favorites, history and CSV data.
+
+[Travel Assistant] - Java itinerary finder on a multi-transport graph. I wrote the JUnit tests.
 
 ## Mostly using
 
